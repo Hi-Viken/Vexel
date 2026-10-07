@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vexel.Service": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vexel.DataBase": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

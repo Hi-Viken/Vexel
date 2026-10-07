@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vexel.CodeGenerator": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
